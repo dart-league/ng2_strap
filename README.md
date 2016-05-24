@@ -17,7 +17,7 @@ dependencies:
     ...
 ```
 
-3\. (Optional) Add sass transformer:
+3\. Add sass transformer:
 
 ```yaml
 dependencies:
