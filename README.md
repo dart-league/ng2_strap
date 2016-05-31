@@ -1,5 +1,7 @@
 # ng2_strap
 
+[![Join the chat at https://gitter.im/dart-league/ng2_strap](https://badges.gitter.im/dart-league/ng2_strap.svg)](https://gitter.im/dart-league/ng2_strap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Native Angular2 Dart directives for Bootstrap
 
 Works with Bootstrap 3
@@ -73,7 +75,7 @@ http://dart-league.github.io/ng2_strap/
 - [x] [Tooltip](http://dart-league.github.io/ng2_strap/#accordion)
 - [x] [Typeahead](http://dart-league.github.io/ng2_strap/#accordion)
 
-- [x] NgTransclude - to transclude templates
+- [x] N2sTransclude - to transclude templates
 - [x] positional service
 
 ## Contribution
