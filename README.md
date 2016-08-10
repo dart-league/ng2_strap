@@ -1,4 +1,6 @@
-# ng2_strap
+# ng2_strap (Deprecated)
+
+Please use [ng_bootstrap](https://pub.dartlang.org/packages/ng_bootstrap)
 
 [![Join the chat at https://gitter.im/dart-league/ng2_strap](https://badges.gitter.im/dart-league/ng2_strap.svg)](https://gitter.im/dart-league/ng2_strap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
